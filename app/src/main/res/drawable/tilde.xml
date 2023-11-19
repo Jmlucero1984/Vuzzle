@@ -1,0 +1,134 @@
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector
+            android:name="vector"
+            android:width="300dp"
+            android:height="300dp"
+            android:viewportWidth="300"
+            android:viewportHeight="300">
+            <group android:name="group_1">
+                <group
+                    android:name="group"
+                    android:pivotX="300"
+                    android:pivotY="20"
+                    android:scaleX="0.3"
+                    android:scaleY="0.3">
+                    <path
+                        android:name="path"
+                        android:pathData="M 234.5 171.92 C 222.23 200.44 201.39 220.98 173.5 234.05 C 153.513 243.471 131.269 247.073 109.33 244.44 C 82.91 241.44 59.73 231.09 39.98 213.11 C 16.607 191.9 2.281 162.479 0 131 L 0 114 C 3.22 77.15 19.37 47.28 48.53 24.73 C 64.356 12.426 83.105 4.431 102.94 1.53 C 133.05 -2.98 161.27 2.41 187.27 18.53 C 193.41 22.33 193.71 25.66 188.53 30.67 C 187.73 31.44 186.98 32.26 186.17 33.01 C 178.32 40.27 176.37 40.59 166.95 35.81 C 137.77 21 108.2 20.93 79.08 35 C 56.33 46 40.33 64 31.14 87.77 C 25.447 102.425 23.498 118.272 25.47 133.87 L 26.82 141.28 C 28.4 147.06 29.47 153.04 31.64 158.59 C 40.19 180.38 55.09 196.88 75.46 208.11 C 94.672 218.973 117.117 222.704 138.81 218.64 C 174.31 212.26 198.47 191.64 213.12 159.22 C 224 129.46 219.43 109.31 218.77 105.09 C 218.22 101.53 218.71 98.4 220.95 95.73 C 224.17 91.89 227.51 88.14 231.03 84.57 C 234.03 81.57 238.26 82.84 239.86 87.57 C 241.276 91.894 242.376 96.316 243.15 100.8 C 249 133.5 238.12 163.52 234.5 171.92 Z"
+                        android:fillColor="#00ff00"
+                        android:strokeColor="#00FFFFFF"/>
+                    <path
+                        android:name="path_1"
+                        android:pathData="M 142.91 172.62 C 139.54 177.44 136.31 182.37 132.76 187.07 C 125.87 196.18 115.88 198.55 105.27 198.43 C 99.03 198.36 95.33 193.56 92.43 188.57 C 81.725 170.123 68.88 153.004 54.16 137.57 C 49.93 133.14 45.37 129.03 41.16 124.63 C 35.16 118.46 35.89 113.63 43.71 110.03 C 60.71 102.25 72.3 104.43 84.31 117.56 C 93.07 127.14 101.17 137.33 109.56 147.25 C 110.42 148.25 111.23 149.33 112.32 150.7 C 115.76 145.7 118.92 140.94 122.32 136.31 C 130.76 124.68 138.84 112.76 147.9 101.64 C 159.38 87.53 171.4 73.82 183.71 60.43 C 194 49.08 206.9 44.75 222.08 49.7 L 231.79 56.7 C 233.42 60.7 231.19 63.37 228.58 66.08 C 217.71 77.35 206.51 88.34 196.26 100.15 C 186.32 111.62 177.4 124 168 135.91 C 164.59 140.54 161.06 145.09 157.81 149.83 C 154.56 154.57 151.64 159.41 148.57 164.21 L 148.57 164.48 L 148.57 164.21 Q 145.77 168.43 142.91 172.62 Z"
+                        android:fillColor="#00ff00"
+                        android:strokeColor="#00FFFFFF"/>
+                </group>
+            </group>
+        </vector>
+    </aapt:attr>
+    <target android:name="group">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="scaleX"
+                    android:duration="300"
+                    android:valueFrom="1"
+                    android:valueTo="0.3"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+                <objectAnimator
+                    android:propertyName="scaleY"
+                    android:duration="300"
+                    android:valueFrom="1"
+                    android:valueTo="0.3"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+                <objectAnimator
+                    android:propertyName="scaleX"
+                    android:startOffset="300"
+                    android:duration="752"
+                    android:valueFrom="0.3"
+                    android:valueTo="0.3"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+                <objectAnimator
+                    android:propertyName="scaleY"
+                    android:startOffset="300"
+                    android:duration="752"
+                    android:valueFrom="0.3"
+                    android:valueTo="0.3"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="path">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="fillAlpha"
+                    android:duration="300"
+                    android:valueFrom="0"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+                <objectAnimator
+                    android:propertyName="fillAlpha"
+                    android:startOffset="300"
+                    android:duration="752"
+                    android:valueFrom="1"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+                <objectAnimator
+                    android:propertyName="fillAlpha"
+                    android:startOffset="1052"
+                    android:duration="448"
+                    android:valueFrom="1"
+                    android:valueTo="0"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="path_1">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:propertyName="fillAlpha"
+                    android:duration="32"
+                    android:valueFrom="0"
+                    android:valueTo="0"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+                <objectAnimator
+                    android:propertyName="fillAlpha"
+                    android:startOffset="32"
+                    android:duration="268"
+                    android:valueFrom="0"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+                <objectAnimator
+                    android:propertyName="fillAlpha"
+                    android:startOffset="300"
+                    android:duration="752"
+                    android:valueFrom="1"
+                    android:valueTo="1"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+                <objectAnimator
+                    android:propertyName="fillAlpha"
+                    android:startOffset="1188"
+                    android:duration="312"
+                    android:valueFrom="1"
+                    android:valueTo="0"
+                    android:valueType="floatType"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"/>
+            </set>
+        </aapt:attr>
+    </target>
+</animated-vector>
