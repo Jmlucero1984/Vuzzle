@@ -5,9 +5,11 @@ Puzzle Game for Android
 
  
 
-https://github.com/Jmlucero1984/Vuzzle/assets/91501518/dc9de31d-aacf-4fbf-a6b8-1d9edcf88e82
 
 
+<div align="center">
+  <video src="https://github.com/Jmlucero1984/Vuzzle/assets/91501518/dc9de31d-aacf-4fbf-a6b8-1d9edcf88e82" width="400" />
+</div>
 
 ## Screenshots
 
