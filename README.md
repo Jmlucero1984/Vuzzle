@@ -1,5 +1,5 @@
 # Vuzzle
-  Puzzle Game for Android - Real time in-device piece generation
+  Puzzle Game for Android | Real time in-device piece generation
 
 ## Description
 
