@@ -1,11 +1,12 @@
 # Vuzzle
 Puzzle Game for Android
 
+## Screen Record
 
-![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/q04h27TIcDM?si=hoVo_tsZJFKUhol0)
+ 
 
-[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/q04h27TIcDM?si=hoVo_tsZJFKUhol0)
+https://github.com/Jmlucero1984/Vuzzle/assets/91501518/dc9de31d-aacf-4fbf-a6b8-1d9edcf88e82
+
 
 
 ## Screenshots
