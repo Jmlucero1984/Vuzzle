@@ -30,7 +30,7 @@ In addition, it has no more "story" than completing the puzzle, there is nothing
 ## Core 
 
 All turns around pixel substraction and masking. The plug-in piece behavior it's no other than checking proximity from which side and then grouping on.
-The turning piece gesture is performed with double-gesture and relative-to-piece angles.
+The turning piece action is performed with double-gesture and relative-to-piece angles.
 
 ![CapturaPieces](https://github.com/Jmlucero1984/Vuzzle/assets/91501518/95b31a80-e69c-4c26-a698-9ac4cd6d57ea)
 
