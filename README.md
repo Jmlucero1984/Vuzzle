@@ -7,7 +7,7 @@ Born from Valeria Humerez idea, the main concept was to produce puzzle pieces fr
 
 Now in retrospective, it has no sense making the user wait for the piece factory process to be finished... you could deliver a couple of pre-cut games and the rest could be fetch and donwloaded through and API and the process of cutting would be took place in a background task, you won't even notice that. Let's double the bet, why not attempt to assign that task to a deeper level (C++) passing through all "keep dumb developer safe and sound" memory barriers.
 
-In addition, it has no more "story" than completing de puzzle, there is nothing more beyond, a gift? a quote? another kind of challenge?... so many things to think about for a later version.
+In addition, it has no more "story" than completing the puzzle, there is nothing more beyond, a gift? a quote? another kind of challenge?... so many things to think about for a later version.
 
 
 ## Screen Record
