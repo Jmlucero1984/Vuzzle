@@ -2,8 +2,11 @@
 Puzzle Game for Android
 
 
-https://github.com/Jmlucero1984/Vuzzle/blob/main/ScreenShot_1.jpeg
+## Screenshots
 
-https://github.com/Jmlucero1984/Vuzzle/blob/main/ScreenShot_2.jpeg
+![MuseoBellasArtesMéxico](https://github.com/Jmlucero1984/Vuzzle/blob/main/ScreenShot_1.jpeg)
+ 
+ 
+![Venzia](ttps://github.com/Jmlucero1984/Vuzzle/blob/main/ScreenShot_2.jpeg)
 
-https://github.com/Jmlucero1984/Vuzzle/blob/main/ScreenShot_3.jpeg
+ ![capadocia](ttps://github.com/Jmlucero1984/Vuzzle/blob/main/ScreenShot_3.jpeg)
