@@ -38,6 +38,6 @@ The wood framing final step it's only an stretching image algorithm.
 
 ![marco_sup_izq](https://github.com/Jmlucero1984/Vuzzle/assets/91501518/2dda7d5e-ee4e-40f6-8a61-01a36b5ac1d7)
 
-## Bootleg
+## Rare papers
 I don't care this doesn't fit into GitHub best practices, it's part of my beginnings, all this started with a couple bush sketches (December 2021)
 ![bootleg](https://github.com/Jmlucero1984/Vuzzle/assets/91501518/906a6c5a-0389-4e2c-b075-5cce9f8aefec)
